@@ -1,7 +1,7 @@
 Capital_API
 ===========
-目前TradingBot - 程式交易機器人，http://www.facebook.com/tradingbot，就是使用群益報價API
-歡迎大家加入討論程式交易
+作者：Philipz(philipzheng@gmail.com)<br/>
+Blog：http://server.everfine.com.tw/blog/<br/>
 感謝Lucas(jenru.tw@gmail.com)提供JNA+SWT來接C語言Callback的程式碼
 
 使用Java JNA和SWT去界接群益報價API的範例
@@ -17,3 +17,6 @@ Capital_API
 　　目前是使用32位元。<br/>
 　d.執行那SKQuoteLib_SWT_Example.java，就會登入並取得Server端時間，按下接收報價就會取得台指期跟領先指的報價。<br/>
 　e.要結束請先按結束連線再關閉。<br/>
+
+目前TradingBot - 程式交易機器人，就是使用群益報價API<br/>
+歡迎大家加入討論程式交易，http://www.facebook.com/tradingbot<br/>
