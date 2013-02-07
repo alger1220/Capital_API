@@ -1,6 +1,6 @@
 Capital_API
 ===========
-目前TradingBot - 程式交易機器人(http://www.facebook.com/tradingbot)就是使用群益報價API
+目前TradingBot - 程式交易機器人，http://www.facebook.com/tradingbot，就是使用群益報價API
 歡迎大家加入討論程式交易
 感謝Lucas(jenru.tw@gmail.com)提供JNA+SWT來接C語言Callback的程式碼
 
