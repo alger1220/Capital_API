@@ -19,4 +19,5 @@ Blog：http://server.everfine.com.tw/blog/<br/>
 　e.要結束請先按結束連線再關閉。<br/>
 
 目前TradingBot - 程式交易機器人，就是使用群益報價API<br/>
-歡迎大家加入討論程式交易，http://www.facebook.com/tradingbot<br/>
+歡迎大家加入討論程式交易，http://www.facebook.com/tradingbot<br/><br/>
+<img alt="capital_api.png" src="http://server.everfine.com.tw/blog/capital_api.png" width="475" height="270">
