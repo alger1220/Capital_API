@@ -1,5 +1,6 @@
 Capital_API
 ===========
+感謝Lucas(jenru.tw@gmail.com)提供JNA+SWT來接C語言Callback的程式碼
 
 使用Java JNA和SWT去界接群益報價API的範例
 
