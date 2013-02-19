@@ -136,7 +136,7 @@ public interface SKQuoteLib extends StdCallLibrary{
 		public short m_sTypeNo;
 		public byte m_cMarketNo;
 		public byte[] m_caStockNo = new byte[20];
-		public byte[] m_caName = new byte[20];
+		public byte[] m_caName = new byte[10];
 		public int m_nOpen;
 		public int m_nHigh;
 		public int m_nLow;
